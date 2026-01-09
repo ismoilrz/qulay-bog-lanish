@@ -39,7 +39,7 @@ export const Socials = [
   {
     key: 4,
     logo: num,
-    name: "AOQA UCHUN",
+    name: "ALOQA UCHUN",
     link: phone,
     username: "+998(94) 8536747",
   },
