@@ -12,7 +12,7 @@ const gitHub = "https://github.com/ismoilrz";
 const phone = "tel:+998948536747";
 
 const massagee = "https://menga-habar-yuborish.vercel.app";
-const portfolioo = "https://portfolio-ismoil-rz.vercel.app";
+const portfolioo = "https://ismoildev-portfolio.vercel.app";
 
 export const Socials = [
   {
@@ -58,6 +58,6 @@ export const Sites = [
         logo: portfolio,
         link: portfolioo,
         name: "PORTFOLIO",
-        username: "https://portfolio-ismoil-rz.vercel.app",
+        username: "https://ismoildev-portfolio.vercel.app",
     },
 ]
