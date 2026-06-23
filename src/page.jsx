@@ -1,5 +1,5 @@
 import { Sites, Socials } from "./constants/socialsData"
-import logo from "./assets/logo.jpg"
+import logo from "./assets/logo.jpg" 
 
 const Page = () => {
     return <>
